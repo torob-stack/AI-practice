@@ -7,7 +7,7 @@ Both focus on **retrieval-augmented generation (RAG)** and **prompt engineering*
 
 ## Projects
 
-### 1️ RAG Chatbot (`rag_chatbot.py`)
+### 1️ RAG Chatbot (`pdf_interpreter.py`)
 - Loads a PDF (e.g., job description, company policy, documentation).  
 - Splits into chunks → embeds into a vector database (Chroma).  
 - Lets you ask **questions about the document**.  
