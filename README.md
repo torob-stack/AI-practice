@@ -18,7 +18,7 @@ This demonstrates how a chatbot can be grounded in company-specific documents. I
 
 ---
 
-### 2️ Prompt Playground (`prompt_playground.py`)
+### 2️ Prompt Practice (`prompt_practice.py`)
 - Experiments with **prompt engineering patterns**:  
   - **Summarization** → concise bullet points  
   - **Extraction** → strict JSON schema (skills, frameworks, topics)  
